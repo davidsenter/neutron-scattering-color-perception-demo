@@ -1,9 +1,8 @@
 # NEUTRON SCATTERING COLOR PERCEPTION DEMO #
 
 ## ABOUT
-***
 Designed by David Senter, ORNL CDA HERE Undergraduate Intern, Summer 2016  
-Mentor: Dr. Chad A. Steed, Computational Data Analytics Group  
+Mentor: Dr. Chad A. Steed, Computational Data Analytics Group, Computational Sciences and Engineering Division, Oak Ridge National Laboratory  
 Additional thanks to Dr. Thomas Proffen and Dr. Garret Granroth of the Neutron Data Analysis and Visualization Division
 
 This application demonstrates the application of concepts of color perception to neutron scattering data.
@@ -12,7 +11,6 @@ The main sketch file is DataMatrixSketch.pde, which can be opened and edited in 
 For more information and to download Processing: http://processing.org  
 
 ## FEATURES
-***
 
 ### NAVIGATION
 Use the up/down arrow keys or mouse scrolling to change the selected slice. 
