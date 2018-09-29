@@ -27,9 +27,14 @@ Move the left, middle, and right sliders to customize the color scale. The histo
 ### ANIMATION
 Click the animation button to activate scale and color map animation. To animate only the scale or color map, use the settings in the lower right corner.
 
+<figcaption>Animation example</figcaption><img src="https://raw.githubusercontent.com/davidsenter/neutron-scattering-color-perception-demo/master/images/animation_example.gif" alt="Heated Map" width="400">
+
 ### COLOR MAPS
 Currently available maps are heated, grayscale, blue, and rainbow. Use left/right arrow keys to change the color map.
 Click "Invert Scale" to invert the order of colors in the current map.
+
+<figcaption>"Heated" Color Scale</figcaption><img src="https://raw.githubusercontent.com/davidsenter/neutron-scattering-color-perception-demo/master/images/default_screen.png" alt="Heated Map" width="400">
+<figcaption>"Heated" Color Scale after inversion</figcaption><img src="https://raw.githubusercontent.com/davidsenter/neutron-scattering-color-perception-demo/master/images/inverted_screen.png" alt="Heated Map" width="400"><figcaption>Rainbow Color Scale</figcaption><img src="https://raw.githubusercontent.com/davidsenter/neutron-scattering-color-perception-demo/master/images/rainbow_screen.png" alt="Rainbow Map" width="400">
 
 ### EXPORTING COLOR MAPS
 Click "Export Color Map" to export the current map at the current scale.
