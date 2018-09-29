@@ -1,0 +1,2 @@
+data.csv filter=lfs diff=lfs merge=lfs -text
+DataMatrixSketch/application.windows64/data/data.csv filter=lfs diff=lfs merge=lfs -text
